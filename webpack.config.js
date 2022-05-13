@@ -5,7 +5,7 @@ module.exports = {
     output: {
         // 최종 번들링된 자바스크립트
         filename: 'main.js',
-        //dist를 배포용 폴더로 사용
+        //dist를 배포용 폴더로 사용d
         path: path.resolve(__dirname, 'dist')
     }
 }
